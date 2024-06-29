@@ -1,8 +1,8 @@
 // urls.js
-const ApiUrl = "http://localhost:3000";
-const BackendApiUrl = "http://localhost:3003";
-// const ApiUrl = "https://requiresign.com/";
-// const BackendApiUrl = "https://backend.requiresign.com/";
+// const ApiUrl = "http://localhost:3000";
+// const BackendApiUrl = "http://localhost:3003";
+const ApiUrl = "https://portal.requiresign.com";
+const BackendApiUrl = "https://server.requiresign.com";
 
 // const ApiUrl = 'https://requiresign.com/'
 

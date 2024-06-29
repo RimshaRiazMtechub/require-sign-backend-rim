@@ -79,7 +79,7 @@ const SendEsignEmail = (
 
                            
                                 <a href=${urls.login_url} style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
-                                  <img src=${imageURL} width="200" alt="RequireSign" style="max-width: 100px;height:100px vertical-align: middle; line-height: 100%; border: 0;">
+                                  <img src=${imageURL} width="200" alt="RequireSign" style="max-width: 100px;height:100px vertical-align: middle; line-height: 100%;height:"auto" ; border: 0;">
                                 </a>   </div>
                                 <p style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin-bottom: 0; font-size: 16px; ">Hello ${first_name} ${last_name}!</p>
                                 <p style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin: 0; margin-bottom: 24px;">

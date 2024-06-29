@@ -78,7 +78,7 @@ const EmailVerify = (
                             <tr>
                               <td class="sm-px-24" style="mso-line-height-rule: exactly; border-radius: 4px; background-color: #ffffff; padding: 48px; text-align: left; font-family: Montserrat, -apple-system, 'Segoe UI', sans-serif; font-size: 16px; line-height: 24px; color: #626262;">
                               <a href=${urls.login_url} style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
-              <img src=${imageURL} width="200" alt="RS User" style="max-width: 100%; vertical-align: middle; line-height: 100%; border: 0;">
+              <img src=${imageURL} width="200" alt="RS User" style="max-width: 100%; vertical-align: middle; line-height: 100%;height:"auto" ; border: 0;">
             </a>
                               <p style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin-top: 1; font-size: 16px; ">Hello ${first_name} ${last_name}, we are resending this account verification email.<br> Please click link below. </p>
                               
